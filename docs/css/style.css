@@ -4,6 +4,16 @@ HTML body {
 	font-family: 'Slabo 27px';
 }
 
+a{
+	color:inherit;
+	text-decoration: none;
+}
+
+a:visited{
+	color:inherit;
+	text-decoration: none;
+}
+
 #headBar{
 	width: 100%;
 	height:75px;
